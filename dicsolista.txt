@@ -1,0 +1,10 @@
+1	tizenketto
+2	tizenegy
+3	tizedik
+4	kilenc
+5	nyolcadik
+6	hetedik
+7	hatodik
+8	otodik
+9	negyedik
+10	harmadik
